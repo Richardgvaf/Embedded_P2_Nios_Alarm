@@ -1,0 +1,582 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Richard/Desktop/pruebaQuartus/software/hello4/obj/default/runtime/sim/mentor
+vprueba1_CPU
+!s110 1620151411
+!i10b 1
+!s100 dCfoznOQ[4DnlJFzoXU_>2
+ICCmR52OhzDE8mQ48AQ5zm1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1620150806
+8C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU.v
+FC:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU.v
+L0 9
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1620151411.000000
+!s107 C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU.v|
+!s90 -reportprogress|300|C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU.v|-work|CPU|
+!i113 1
+o-work CPU
+Z3 tCvgOpt 0
+nprueba1_@c@p@u
+vprueba1_CPU_cpu
+Z4 !s110 1620151408
+!i10b 1
+!s100 Gim;]b[8R7DiFA:8gWfLU2
+I9Dh598H;46o;S=DXzmHSe2
+R1
+R0
+Z5 w1620150822
+Z6 8C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu.v
+Z7 FC:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu.v
+L0 2834
+R2
+r1
+!s85 0
+31
+Z8 !s108 1620151408.000000
+Z9 !s107 C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu.v|
+Z10 !s90 -reportprogress|300|C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu.v|-work|cpu|
+!i113 1
+Z11 o-work cpu
+R3
+nprueba1_@c@p@u_cpu
+vprueba1_CPU_cpu_debug_slave_sysclk
+R4
+!i10b 1
+!s100 oH?gQoPUW9j:z^29hA1_U2
+ILIEB[I2F[k_J?d9;6VQGA2
+R1
+R0
+R5
+8C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_sysclk.v
+FC:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_sysclk.v
+Z12 L0 21
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_sysclk.v|-work|cpu|
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_debug_slave_sysclk
+vprueba1_CPU_cpu_debug_slave_tck
+Z13 !s110 1620151409
+!i10b 1
+!s100 ;L`J`hfC`iCQXKK9SH:m@0
+IGZz9e<k_SYb4NHh0;Z8R=3
+R1
+R0
+R5
+8C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_tck.v
+FC:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_tck.v
+R12
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_tck.v|-work|cpu|
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_debug_slave_tck
+vprueba1_CPU_cpu_debug_slave_wrapper
+R13
+!i10b 1
+!s100 STOCdQD84>^o0UN4AL5>f0
+INFf?1f6>fhhoec>0o4o?;0
+R1
+R0
+R5
+8C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_wrapper.v
+FC:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_wrapper.v
+R12
+R2
+r1
+!s85 0
+31
+Z14 !s108 1620151409.000000
+!s107 C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_debug_slave_wrapper.v|-work|cpu|
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_debug_slave_wrapper
+vprueba1_CPU_cpu_nios2_avalon_reg
+R4
+!i10b 1
+!s100 Rb@SGQBD3ZYZS1>fV86[h1
+IYY3bmje^S04R1]:4XIJ:A3
+R1
+R0
+R5
+R6
+R7
+L0 2023
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_avalon_reg
+vprueba1_CPU_cpu_nios2_oci
+R4
+!i10b 1
+!s100 U`aa5IKgZ^5lj?0OnP[2<2
+IMJlg^ZQ1]`VaD4SM;nhjT0
+R1
+R0
+R5
+R6
+R7
+L0 2362
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci
+vprueba1_CPU_cpu_nios2_oci_break
+R4
+!i10b 1
+!s100 g^82=RL1h>^Qzg[9Z]jaf2
+II1h@OIgTDXo^XVW_Fl60P1
+R1
+R0
+R5
+R6
+R7
+L0 295
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_break
+vprueba1_CPU_cpu_nios2_oci_compute_input_tm_cnt
+R4
+!i10b 1
+!s100 l?m85NIbakQePo2[PSHNQ1
+IJ5cRKDeDQAT>z03@In39O3
+R1
+R0
+R5
+R6
+R7
+L0 1265
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_compute_input_tm_cnt
+vprueba1_CPU_cpu_nios2_oci_dbrk
+R4
+!i10b 1
+!s100 ?jXXA]HGU3TP`F3Y<E:H21
+ISc4=^F9<8IBBOWU0?`V5c3
+R1
+R0
+R5
+R6
+R7
+L0 795
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_dbrk
+vprueba1_CPU_cpu_nios2_oci_debug
+R4
+!i10b 1
+!s100 2[jARGEVF147O4Jb4MhZV0
+IP<hT;7<h8j<`mNjn1;bNY2
+R1
+R0
+R5
+R6
+R7
+L0 153
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_debug
+vprueba1_CPU_cpu_nios2_oci_dtrace
+R4
+!i10b 1
+!s100 HY@5FE3]I1Z;TB=IfV5[J0
+If`dCAl[DAhg3>RJKz:MLE2
+R1
+R0
+R5
+R6
+R7
+L0 1183
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_dtrace
+vprueba1_CPU_cpu_nios2_oci_fifo
+R4
+!i10b 1
+!s100 =ci]W_8=7LM?Hjo:3cl0_3
+I4AFP=ZnC0ZeiKhcUc^Pgk2
+R1
+R0
+R5
+R6
+R7
+L0 1427
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_fifo
+vprueba1_CPU_cpu_nios2_oci_fifo_cnt_inc
+R4
+!i10b 1
+!s100 2DzTPa]L2G;KI]oYccC[E3
+IYj_GCN?c=W=<WMc:Ez@gP1
+R1
+R0
+R5
+R6
+R7
+L0 1380
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_fifo_cnt_inc
+vprueba1_CPU_cpu_nios2_oci_fifo_wrptr_inc
+R4
+!i10b 1
+!s100 X5SVmNNMfUzefFKdW<JFU3
+I9zba7dR@OiUl_X?TVFg=c2
+R1
+R0
+R5
+R6
+R7
+L0 1337
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_fifo_wrptr_inc
+vprueba1_CPU_cpu_nios2_oci_im
+R4
+!i10b 1
+!s100 J^NPYJ7?@HXTLZF8=?TfP1
+IQzH1kJZ6WhU]gETlV5e7e2
+R1
+R0
+R5
+R6
+R7
+L0 1936
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_im
+vprueba1_CPU_cpu_nios2_oci_itrace
+R4
+!i10b 1
+!s100 Z^7<H>I9HzF?nmB[S^hHR1
+Ifb<?Q;E=VA?ji_`15^]4A1
+R1
+R0
+R5
+R6
+R7
+L0 982
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_itrace
+vprueba1_CPU_cpu_nios2_oci_pib
+R4
+!i10b 1
+!s100 7baXc`FAggV45QVGf3CQa3
+If1ddd;:QdOOjbTciEZhHb1
+R1
+R0
+R5
+R6
+R7
+L0 1913
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_pib
+vprueba1_CPU_cpu_nios2_oci_td_mode
+R4
+!i10b 1
+!s100 o1glZX^PGV52<Q;9Mfh=;1
+I98=W37o]?[Goz>boT7>Ta3
+R1
+R0
+R5
+R6
+R7
+L0 1115
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_td_mode
+vprueba1_CPU_cpu_nios2_oci_xbrk
+R4
+!i10b 1
+!s100 Wc]R[F81`O5YVU5:IM:3I0
+Ib:l8BoNnEED3R@0zSY[0R1
+R1
+R0
+R5
+R6
+R7
+L0 588
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_oci_xbrk
+vprueba1_CPU_cpu_nios2_ocimem
+R4
+!i10b 1
+!s100 j8X8kB[VOKV<Rl9=[BKI`3
+I8JBkfHg^nf5ALn3Z0k1m83
+R1
+R0
+R5
+R6
+R7
+L0 2181
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_ocimem
+vprueba1_CPU_cpu_nios2_performance_monitors
+R4
+!i10b 1
+!s100 Yb3IBB]Kog:=9I;3;k_bb1
+I^GzYhd]mXjli1RCHJ5>B?0
+R1
+R0
+R5
+R6
+R7
+L0 2006
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_nios2_performance_monitors
+vprueba1_CPU_cpu_ociram_sp_ram_module
+R4
+!i10b 1
+!s100 6AgM4UMPnz^B?zJ8QMX2L1
+IfZ3a81j1MY4mC^P`dV2jg1
+R1
+R0
+R5
+R6
+R7
+L0 2116
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_ociram_sp_ram_module
+vprueba1_CPU_cpu_register_bank_a_module
+R4
+!i10b 1
+!s100 G`U_oiDezzc[h:>@2Q`WK0
+I]BSn>KXN0OU<aPlaA^6;]1
+R1
+R0
+R5
+R6
+R7
+R12
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_register_bank_a_module
+vprueba1_CPU_cpu_register_bank_b_module
+R4
+!i10b 1
+!s100 nXZ=>?Y7o1TK7[BHFPVWI1
+IFPgUhPVJJ7E7oX3mBHaTU1
+R1
+R0
+R5
+R6
+R7
+L0 87
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_register_bank_b_module
+vprueba1_CPU_cpu_test_bench
+R13
+!i10b 1
+!s100 Z``Go>@XD>TVh>E7lRM2Q3
+IjUP_Q;AdNE]ZXBc5bee[U3
+R1
+R0
+R5
+8C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_test_bench.v
+FC:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_test_bench.v
+R12
+R2
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_test_bench.v|
+!s90 -reportprogress|300|C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_CPU_cpu_test_bench.v|-work|cpu|
+!i113 1
+R11
+R3
+nprueba1_@c@p@u_cpu_test_bench

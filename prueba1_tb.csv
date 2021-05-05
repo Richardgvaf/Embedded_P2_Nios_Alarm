@@ -1,0 +1,35 @@
+# system info prueba1_tb on 2021.05.05.11:04:20
+system_info:
+name,value
+DEVICE,5CEBA2F17A7
+DEVICE_FAMILY,Cyclone V
+GENERATION_ID,1620234241
+#
+#
+# Files generated for prueba1_tb on 2021.05.05.11:04:20
+files:
+filepath,kind,attributes,module,is_top
+prueba1/testbench/prueba1_tb/simulation/prueba1_tb.v,VERILOG,,prueba1_tb,true
+prueba1/testbench/prueba1_tb/simulation/submodules/verbosity_pkg.sv,SYSTEM_VERILOG, COMMON_SYSTEMVERILOG_PACKAGE=avalon_vip_verbosity_pkg,altera_conduit_bfm,false
+prueba1/testbench/prueba1_tb/simulation/submodules/altera_conduit_bfm.sv,SYSTEM_VERILOG,,altera_conduit_bfm,false
+prueba1/testbench/prueba1_tb/simulation/submodules/verbosity_pkg.sv,SYSTEM_VERILOG, COMMON_SYSTEMVERILOG_PACKAGE=avalon_vip_verbosity_pkg,altera_avalon_clock_source,false
+prueba1/testbench/prueba1_tb/simulation/submodules/altera_avalon_clock_source.sv,SYSTEM_VERILOG,,altera_avalon_clock_source,false
+prueba1/testbench/prueba1_tb/simulation/submodules/verbosity_pkg.sv,SYSTEM_VERILOG, COMMON_SYSTEMVERILOG_PACKAGE=avalon_vip_verbosity_pkg,altera_conduit_bfm_0002,false
+prueba1/testbench/prueba1_tb/simulation/submodules/altera_conduit_bfm_0002.sv,SYSTEM_VERILOG,,altera_conduit_bfm_0002,false
+prueba1/testbench/prueba1_tb/simulation/submodules/verbosity_pkg.sv,SYSTEM_VERILOG, COMMON_SYSTEMVERILOG_PACKAGE=avalon_vip_verbosity_pkg,altera_avalon_reset_source,false
+prueba1/testbench/prueba1_tb/simulation/submodules/altera_avalon_reset_source.sv,SYSTEM_VERILOG,,altera_avalon_reset_source,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+prueba1_tb.prueba1_inst,prueba1
+prueba1_tb.prueba1_inst_button_input_1_external_connection_bfm,altera_conduit_bfm
+prueba1_tb.prueba1_inst_switch_input_2_external_connection_bfm,altera_conduit_bfm
+prueba1_tb.prueba1_inst_clk_bfm,altera_avalon_clock_source
+prueba1_tb.prueba1_inst_led_output_5_external_connection_bfm,altera_conduit_bfm_0002
+prueba1_tb.prueba1_inst_regs_bfm,altera_conduit_bfm_0002
+prueba1_tb.prueba1_inst_ss_output_1_external_conection_bfm,altera_conduit_bfm_0002
+prueba1_tb.prueba1_inst_ss_output_2_external_connection_bfm,altera_conduit_bfm_0002
+prueba1_tb.prueba1_inst_ss_output_3_external_connection_bfm,altera_conduit_bfm_0002
+prueba1_tb.prueba1_inst_ss_output_4_external_connection_bfm,altera_conduit_bfm_0002
+prueba1_tb.prueba1_inst_reset_bfm,altera_avalon_reset_source

@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/victo/Desktop/pruebaQuartus/software/hello_world/obj/default/runtime/sim/mentor
+vprueba1_JTAG
+Z1 !s110 1619729388
+!i10b 1
+!s100 2PJM@:GOU7Y_;JPH]aHo80
+IYlmHGDT9`<l<i9HJQYUkC3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619725455
+Z4 8C:/Users/victo/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_JTAG.v
+Z5 FC:/Users/victo/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_JTAG.v
+L0 331
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619729388.000000
+Z8 !s107 C:/Users/victo/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_JTAG.v|
+Z9 !s90 -reportprogress|300|C:/Users/victo/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_JTAG.v|-work|JTAG|
+!i113 1
+Z10 o-work JTAG
+Z11 tCvgOpt 0
+nprueba1_@j@t@a@g
+vprueba1_JTAG_scfifo_r
+R1
+!i10b 1
+!s100 SB7=?7OS=M0S`M<P9S?Ml2
+ImAQZ^h@aCT5VQjBg;cJ4`2
+R2
+R0
+R3
+R4
+R5
+L0 243
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nprueba1_@j@t@a@g_scfifo_r
+vprueba1_JTAG_scfifo_w
+R1
+!i10b 1
+!s100 H<:W=fXc<bT;l]2b6D1Oo1
+I`a2al>HAlVH0YIQGo1IIV2
+R2
+R0
+R3
+R4
+R5
+L0 78
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nprueba1_@j@t@a@g_scfifo_w
+vprueba1_JTAG_sim_scfifo_r
+R1
+!i10b 1
+!s100 mF9bX7YAIX6Nff:JU;j^E2
+I4kf3jjZAA_T_HVfQA1;M33
+R2
+R0
+R3
+R4
+R5
+L0 164
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nprueba1_@j@t@a@g_sim_scfifo_r
+vprueba1_JTAG_sim_scfifo_w
+R1
+!i10b 1
+!s100 hnig]Gh@U4=kbU<D9<MMF0
+IX2mZ5SC5R?F?4F_W?Z9:=1
+R2
+R0
+R3
+R4
+R5
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nprueba1_@j@t@a@g_sim_scfifo_w

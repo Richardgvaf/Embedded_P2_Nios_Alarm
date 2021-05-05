@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Richard/Desktop/pruebaQuartus/software/hello4/obj/default/runtime/sim/mentor
+vprueba1_RAM
+!s110 1620151411
+!i10b 1
+!s100 A>D?8?Ng>Y>6>^AUS?K@[1
+IF5YT[RUBCEoMT]DAojZT`0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1620150807
+8C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_RAM.v
+FC:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_RAM.v
+L0 21
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1620151411.000000
+!s107 C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_RAM.v|
+!s90 -reportprogress|300|C:/Users/Richard/Desktop/pruebaQuartus/prueba1/testbench/prueba1_tb/simulation/submodules/prueba1_RAM.v|-work|RAM|
+!i113 1
+o-work RAM
+tCvgOpt 0
+nprueba1_@r@a@m

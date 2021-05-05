@@ -1,0 +1,83 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate C:\Users\Richard\Desktop\pruebaQuartus\prueba1.qsys --block-symbol-file --output-directory=C:\Users\Richard\Desktop\pruebaQuartus\prueba1 --family="Cyclone V" --part=5CEBA2F17A7
+Progress: Loading pruebaQuartus/prueba1.qsys
+Progress: Reading input file
+Warning: Invalid device family name in input file: Cyclone V
+Progress: Adding Button_Input_1 [altera_avalon_pio 19.1]
+Progress: Parameterizing module Button_Input_1
+Progress: Adding CLK [clock_source 19.1]
+Progress: Parameterizing module CLK
+Progress: Adding CPU [altera_nios2_gen2 19.1]
+Progress: Parameterizing module CPU
+Progress: Adding Led_output_5 [altera_avalon_pio 19.1]
+Progress: Parameterizing module Led_output_5
+Progress: Adding RAM [altera_avalon_onchip_memory2 19.1]
+Progress: Parameterizing module RAM
+Progress: Adding REG [altera_avalon_pio 19.1]
+Progress: Parameterizing module REG
+Progress: Adding SS_Output_1 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_1
+Progress: Adding SS_Output_2 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_2
+Progress: Adding SS_Output_3 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_3
+Progress: Adding SS_Output_4 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_4
+Progress: Adding Switch__Input_2 [altera_avalon_pio 19.1]
+Progress: Parameterizing module Switch__Input_2
+Progress: Adding Timer [altera_avalon_timer 19.1]
+Progress: Parameterizing module Timer
+Progress: Adding UART [altera_avalon_jtag_uart 19.1]
+Progress: Parameterizing module UART
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: prueba1.Button_Input_1: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: prueba1.Switch__Input_2: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: prueba1.UART: JTAG UART IP input clock need to be at least double (2x) the operating frequency of JTAG TCK on board
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate C:\Users\Richard\Desktop\pruebaQuartus\prueba1.qsys --synthesis=VERILOG --output-directory=C:\Users\Richard\Desktop\pruebaQuartus\prueba1\synthesis --family="Cyclone V" --part=5CEBA2F17A7
+Progress: Loading pruebaQuartus/prueba1.qsys
+Progress: Reading input file
+Warning: Invalid device family name in input file: Cyclone V
+Progress: Adding Button_Input_1 [altera_avalon_pio 19.1]
+Progress: Parameterizing module Button_Input_1
+Progress: Adding CLK [clock_source 19.1]
+Progress: Parameterizing module CLK
+Progress: Adding CPU [altera_nios2_gen2 19.1]
+Progress: Parameterizing module CPU
+Progress: Adding Led_output_5 [altera_avalon_pio 19.1]
+Progress: Parameterizing module Led_output_5
+Progress: Adding RAM [altera_avalon_onchip_memory2 19.1]
+Progress: Parameterizing module RAM
+Progress: Adding REG [altera_avalon_pio 19.1]
+Progress: Parameterizing module REG
+Progress: Adding SS_Output_1 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_1
+Progress: Adding SS_Output_2 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_2
+Progress: Adding SS_Output_3 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_3
+Progress: Adding SS_Output_4 [altera_avalon_pio 19.1]
+Progress: Parameterizing module SS_Output_4
+Progress: Adding Switch__Input_2 [altera_avalon_pio 19.1]
+Progress: Parameterizing module Switch__Input_2
+Progress: Adding Timer [altera_avalon_timer 19.1]
+Progress: Parameterizing module Timer
+Progress: Adding UART [altera_avalon_jtag_uart 19.1]
+Progress: Parameterizing module UART
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: prueba1.Button_Input_1: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: prueba1.Switch__Input_2: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: prueba1.UART: JTAG UART IP input clock need to be at least double (2x) the operating frequency of JTAG TCK on board
+Info: prueba1: Generating prueba1 "prueba1" for QUARTUS_SYNTH
+Info: prueba1: Done "prueba1" with 1 modules, 0 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis
